@@ -63,14 +63,18 @@ print(98 == 98)
 
 #2) დაწერეთ პროგრამა, რომელიც იღებს ორი ადამიანის ასაკს და განსაზღვრავს ვინ არის უფროსი.
 
-person1 = input("enter first person age: ")
-person2 = input("enter second person age: ")
+person1 = int(input("enter first person age: "))
+person2 = int(input("enter second person age: "))
 
 print(person1 > person2)
 
 print(person1 < person2)
 
 print(person1 == person2)
+
+print("first person is older")
+print("second person is older")
+print("both of them are of the same age.S")
 
 
 
