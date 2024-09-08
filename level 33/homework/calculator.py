@@ -14,7 +14,13 @@
 # ჩაწერეთ კოდი, რომ გამოიძახოთ ფუნქცია სხვადასხვა ოპერაციებით და დაბეჭდოთ შედეგები.
 
 def simple_calculator(a, b):
-    choose = input('choose an action (addition, subtraction, multiplication, split): ')
+
+    print('1. addition')
+    print('2. subtraction')
+    print('3. multiplication')
+    print('4. split')
+
+    choose = input('choose an action : ')
 
     if choose == "addition":
         print(a + b)
@@ -26,7 +32,7 @@ def simple_calculator(a, b):
         if b == 0:
             print('It cannot be divided by zero')
         else:
-            print(a / b)
+            print(a // b)
     else:
         print('Unknown operation')
 
