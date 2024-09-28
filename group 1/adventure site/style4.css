@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(90deg, rgb(101, 151, 184) 0%, rgb(137, 98, 198) 35%, rgb(101, 174, 184) 100%)
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(103, 20, 220);
+}
+
+h3{
+    font-family:cursive;
+    font-size: 25px;
+}

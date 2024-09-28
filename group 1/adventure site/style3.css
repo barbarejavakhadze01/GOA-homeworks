@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(90deg, rgb(131, 165, 188) 10%, rgb(191, 98, 198) 35%, rgb(169, 121, 216) 100%)
+}
+
+#contact{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}

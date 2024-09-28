@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(90deg, rgb(159, 184, 101) 0%, rgb(98, 198, 116) 35%, rgb(159, 184, 101) 100%)
+}
+
+.tour{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif,'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+
+.country{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:lightgreen;
+    background-color: rgb(102, 168, 102);
+}
+
+h1{
+    font-family: monospace, cursive;
+    font-style: italic;
+    background-color: rgb(212, 92, 92);
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 198, 198);
+}

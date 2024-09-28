@@ -1,0 +1,28 @@
+.hello{
+    color: rgb(70, 40, 68);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background: linear-gradient(90deg, rgb(101, 151, 184) 0%, rgb(137, 98, 198) 35%, rgb(101, 174, 184) 100%)
+}
+
+footer{
+    text-decoration: none;
+}
+
+button{
+    background-color: rgb(176, 99, 195);
+    padding: 10px 20px;
+}
+
+h6{
+    color: rgb(151, 83, 151);
+    background-color: rgb(151, 83, 151);
+}
+
+div{
+    color: brown;
+    font-family: monospace;
+}
